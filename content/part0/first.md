@@ -45,7 +45,7 @@ Switched to a new branch 'deepeth'
     ```
 
 1. 编译 go-ethereum
-
+    如果编译失败，却不知如何解决，可尝试降低golang版本，比如换成1.6版本。
     ```bash
     make
     # output:
